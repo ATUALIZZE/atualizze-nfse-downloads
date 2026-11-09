@@ -1,0 +1,14 @@
+{
+ "dados": {
+  "versao": 1,
+  "gerado_em": "2026-11-09T14:37:51",
+  "licencas": {
+   "c19516d9b882b73e0021243e1544ef675a30f73695b2922988021534c0f2be5f": {
+    "vencimento": null,
+    "situacao": "ativa",
+    "tipo": "escritorio"
+   }
+  }
+ },
+ "assinatura": "srEB2Y0e69tKQoe04kh0TYqS1CjJ/zoBZNlWvfDwiMzrABEJhe3oZNKOQhrFHLYjsKHXGN4rydIkp5wPz5vuBg=="
+}
