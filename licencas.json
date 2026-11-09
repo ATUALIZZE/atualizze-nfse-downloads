@@ -1,14 +1,19 @@
 {
  "dados": {
   "versao": 1,
-  "gerado_em": "2026-11-09T14:37:51",
+  "gerado_em": "2026-11-09T14:38:01",
   "licencas": {
    "c19516d9b882b73e0021243e1544ef675a30f73695b2922988021534c0f2be5f": {
     "vencimento": null,
     "situacao": "ativa",
     "tipo": "escritorio"
+   },
+   "36bb991d03eeb2001b774a0c15aae4a4f2cb64bde5ff6966a5042510ecb1259f": {
+    "vencimento": "2027-11-09",
+    "situacao": "ativa",
+    "tipo": "cliente"
    }
   }
  },
- "assinatura": "srEB2Y0e69tKQoe04kh0TYqS1CjJ/zoBZNlWvfDwiMzrABEJhe3oZNKOQhrFHLYjsKHXGN4rydIkp5wPz5vuBg=="
+ "assinatura": "SKEFBX47gRxyCveQVXnrwlEerFiGEgvi4FxRfjCtz1LaoxG4f3bcFLdKaWlGdObAlEOk9XLFMB9Hap1nRTdMDw=="
 }
